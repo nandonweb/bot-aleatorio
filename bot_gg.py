@@ -57,7 +57,7 @@ async def excluir(ctx, channel: discord.VoiceChannel):
         await ctx.send(embed=mbed)
         await channel.delete()
 
-client.run('MTA0NzM1NDg4NDYxOTUxMzk2Nw.GY7TIJ.hreBh80rHtnRDL9ItQpvs37zFfwFWzTY-M7rOE')
+client.run('TOKEN')
 
 
 # comentarios
